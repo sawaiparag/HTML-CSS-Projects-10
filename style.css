@@ -1,0 +1,107 @@
+
+body{
+    background-image: url(./images/bgc.jpg);
+    height: 100%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav{
+    float: right;
+    font-weight: bolder;
+    color: white;
+    margin-top: 38px;
+    margin-right: -30px;
+}
+
+
+ .logo{
+    color: white;
+}
+
+.logo h2{
+    margin-left: 30px;
+}
+
+.nav-item{
+    margin-right: 50px;
+}
+
+hr{
+    width: 100%;
+    margin-top: 20px;
+} 
+.Main{
+    margin-top: 90px;
+    margin-left: 40px;
+    font-size: 200%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.btn{
+    padding: 0.9em 2.9em;
+    border-radius: 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    background-color: transparent;
+    border-color: white; 
+    cursor: pointer;   
+}
+
+.Cards{
+    opacity: 60%;
+    color: #0e0303;
+    font-size: small;
+    font-weight: bolder;
+
+}
+.cardone{
+    width: 20%;
+    height: 120px;
+    background-color: rgb(247, 247, 247);
+    opacity: 90%;
+    margin-left: 900px;
+    margin-top: -250px;
+
+    
+}
+
+.cardone img{
+    width: 15%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.cardone h4{
+    margin-left: 10px;
+    font-weight: 1000;
+    color: black;
+}
+
+.cardtwo img{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.cardtwo h4{
+    margin-left: 10px;
+    font-weight: 1000;
+    color: black;
+}
+
+.cardtwo{
+    width: 20%;
+    height: 120px;
+    margin-left: 550px;
+    margin-top: 100px;
+    background-color: #faecec;
+  
+}
+    
+.logo{
+   
+display: flex;
+margin-left: 10px;
+padding-top: 10px;
+}
